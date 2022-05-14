@@ -1,7 +1,7 @@
 # CPE462-Final-Project
 Determining sky conditions
 
-[Report](./Report/Report.pdf)
+[Report](./Report/CPE462FinalReport.pdf)
 
 Shiddharath Patel
 ## About
